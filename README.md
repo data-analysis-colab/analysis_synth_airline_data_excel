@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project explores a three-week snapshot of a simulated airline database (documented [here](...)), 
+This project explores a three-week snapshot of a simulated airline database (documented [here](https://github.com/data-analysis-colab/database_creation_airline_python/blob/master/README.md)), 
 using Microsoft Excel as the primary tool for analysis and visualization. The objective is to demonstrate Excel’s
 ability to handle interactive data exploration, scenario testing, and KPI-driven insights using slicers, pivot tables,
 Power Query, and DAX-based measures.
