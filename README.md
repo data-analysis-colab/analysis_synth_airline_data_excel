@@ -117,4 +117,4 @@ This workflow provides a robust analytical template for evaluating strategic air
 and interactive Excel environment.
 
 ## Authors
-Jan H. Schüttler (Linkedin), Behzad Nematipour (Linkedin)
+Jan H. Schüttler (Linkedin), Behzad Nematipour ([linkedin](https://linkedin.com/in/behzad-nematipour-99b8b4399))
